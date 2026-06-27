@@ -362,10 +362,328 @@ jobs:
 
 完了したら画像を送ってください！
 
+IMG_7163.jpeg
+こうなりました
+
+12:45
+.github/workflows/update-news.yml も完了です！✅
+
+残りはあと1ファイルだけです。
+
+「japan-news」 をクリックしてトップに戻り、「Add file」→「Create new file」 をクリックしてください。
+
+① ファイル名欄に入力
+
+requirements.txt
+② 内容欄に貼り付け（1行だけです）
+
+anthropic>=0.40.0
+③ 右上「Commit changes」→「Commit changes」
+
+これで全ファイルが揃います！
+
+IMG_7164.jpeg
+これのどこを押せばいいですか？
+
+12:47
+requirements.txt がまだないので、もう一度作ります。
+
+「Add file」→「Create new file」 をクリックしてください。
+
+画面中央上あたりに 「Add file ▼」 というボタンが見えています。それです！
+
+IMG_7165.jpeg
+こうなりました
+
+12:49
+全ファイルの作成、完了です！🎉
+
+.github/workflows/  ✅
+docs/               ✅
+scripts/            ✅
+README.md           ✅
+requirements.txt    ✅
+次は APIキーの登録です。
+
+上のメニューの 「Settings」 をクリックしてください。
+
+Settingsってどこにありますか？
+
+12:51
+画面上部のメニューバーに見えています！
+
+「Security and quality」の右隣に 「Settings」 があります。
+
+画面の上のほうに
+Issues　Pull requests　Actions　Projects　Wiki　Security and quality　Insights　**Settings**
+と並んでいる中の一番右です。
+
+IMG_7166.jpeg
+こうなりました
+
+12:52
+Settingsに入れました！✅
+
+左側のメニューに 「Secrets and variables」 が見えています。それをクリックしてください。
+
+（画面左側、下のほうに Secrets and variables と書いてあります）
+
+IMG_7167.jpeg
+こうなりました
+
+12:54
+「Secrets and variables」が開いて、その下に項目が出ています。
+
+「Actions」 をクリックしてください。
+
+（左メニューの「Secrets and variables」の真下に「Actions」「Agents」「Codespaces」「Dependabot」と見えています。一番上の 「Actions」 です）
+
+IMG_7168.jpeg
+こうなりました
+
+12:55
+完璧です！この画面です！✅
+
+緑色の 「New repository secret」 ボタンをクリックしてください。
+
+IMG_7169.jpeg
+こうなりました
+
+12:56
+この画面に2つ入力します。
+
+① 上の「Name」欄に入力：
+
+ANTHROPIC_API_KEY
+（YOUR_SECRET_NAME と書いてある欄をクリックして消してから入力）
+
+② 下の「Secret」欄に、AnthropicのAPIキー（sk-ant- で始まる文字列）を貼り付け
+
+APIキーは console.anthropic.com にログインして 「API Keys」 から確認できます。すでにお手元にある場合はそのまま貼り付けてください。
+
+両方入力したら 「Add secret」 をクリックしてください！
+
+IMG_7170.jpeg
+こうなりました
+
+12:59
+ANTHROPIC_API_KEY の登録完了です！✅
+
+次はGitHub Pagesの設定です。左メニューを少し上にスクロールすると 「Pages」 があります。クリックしてください。
+
+IMG_7171.jpeg
+こうなりました
+
+13:01
+GitHub Pages の画面です！
+
+「Branch」の下の「None ▼」 をクリックしてください。
+
+IMG_7172.jpeg
+13:02
+「main」 をクリックしてください！
+
+IMG_7173.jpeg
+こうなりました
+
+13:03
+もう一步！フォルダを docs に変更します。
+
+「/ (root) ▼」 をクリックしてください。
+
+IMG_7174.jpeg
+こうなりました
+
+13:04
+完璧です！main と /docs が選ばれています！✅
+
+「Save」 をクリックしてください！
+
+IMG_7175.jpeg
+こうなりました
+
+13:05
+GitHub Pages の設定完了です！🎉
+
+「being built from the /docs folder in the main branch」と表示されており、正しく設定されています。
+
+いよいよ最後のステップです！初回テスト実行をします。
+
+上のメニューの 「Actions」 をクリックしてください。
+
+IMG_7176.jpeg
+こうなりました
+
+13:06
+2つ「Failure」（赤い×）が出ていますが、心配不要です。これはファイルを追加したときに自動で走ってしまったもので、その時点ではAPIキーがまだ登録されていなかったため失敗しました。
+
+今度は正しく動くはずです。手動で実行しましょう。
+
+左側の 「workflow」 をクリックしてください。
+
+new workflowでいいですか？
+
+13:07
+いいえ、「new workflow」ではなく、左側にある 「workflow」 という文字だけのボタンです。
+
+画面左上の、オレンジ色っぽい背景の 「workflow」 をクリックしてください。
+
+IMG_7177.jpeg
+どこですか？
+
+13:09
+左側に見えています！
+
+「.github/workflows/update-news.yml」 をクリックしてください。
+
+IMG_7178.jpeg
+こうなりました
+
+13:10
+この画面です！右上のほうに 「Run workflow」 ボタンがあるはずです。
+
+画面を右側に少しスクロールするか、右上あたりを見てみてください。見当たらない場合は画面全体のスクリーンショットを送っていただけますか？
+
+IMG_7179.jpeg
+どこですか？
+
+13:11
+右上の 「…」（3つの点）をクリックしてください。
+
+画面右上、「Filter workflow runs」の検索欄のすぐ右にあります。
+
+IMG_7180.jpeg
+どこですか？
+
+13:12
+これは違うメニューでした。画面の別の場所を押してこのメニューを閉じてから、もう一度試みましょう。
+
+「Run workflow」ボタンが見当たらないので、別の方法で探します。
+
+画面上部のURLバーに以下を直接入力してEnterを押してください：
+
+https://github.com/nishihara117-pixel/japan-news/actions/workflows/update-news.yml
+そのページに「Run workflow」ボタンが表示されます。
+
+ＵＲＬバーはどこにありますか？
+
+13:15
+画面の一番上、ブラウザの上部にある長い入力欄です。
+
+現在 github.com/nishihara117-pixel/japan-news/actions/workflows/update-news.yml と表示されている部分をクリックして、全部消してから上のURLを入力してEnterを押してください。
+
+実はもう同じURLが表示されているので、そのままEnterを押すだけで大丈夫です！
+
+ページが読み込まれたら、画面右側に 「Run workflow」 ボタンが現れるはずです。
+
+IMG_7181.jpeg
+わからないですが
+
+13:17
+「Run workflow」ボタンが見えていませんね。画面を右側にスクロールすると出てくるはずです。
+
+マウスのホイールを右にスクロールするか、画面右端にスクロールバーがあればそれを動かしてみてください。
+
+または、キーボードの →（右矢印キー） を何度か押してみてください。
+
+出てきません
+
+13:18
+わかりました。別の方法で試しましょう。
+
+画面左側の 「Create requirements.txt」（上の方の赤い×のやつ）をクリックしてください。
+
+IMG_7182.jpeg
+こうなりました
+
+13:19
+エラーの原因がわかりました！
+
+「Invalid workflow file: line 52にYAMLの構文エラー」と書いてあります。YMLファイルの中身に問題があります。修正しましょう。
+
+まずリポジトリに戻ります。上のメニューの 「Code」 をクリックしてください。
+
+IMG_7183.jpeg
+こうなりました
+
+13:20
+YMLファイルを修正します。
+
+「.github/workflows」 フォルダをクリックしてください。
+
+IMG_7184.jpeg
+こうなりました
+
+13:21
+「update-news.yml」 をクリックしてください。
+
+IMG_7185.jpeg
+長いコードが出てきました
+
+13:22
+これは違うファイルです！このClaudeとの会話内容が入ってしまっています。
+
+正しいYMLファイルの内容に丸ごと書き換えます。右上の**鉛筆アイコン（編集ボタン）**を探してクリックしてください。画面を少し上にスクロールすると見えるはずです。
+
+IMG_7186.jpeg
+こうなりました
+
+13:23
+編集画面に入れました！中身を全部消して正しい内容に書き換えます。
+
+① まず全選択して削除
+内容欄をクリックしてから Ctrl+A を押して全選択し、Delete キーで全部消してください。
+
+② 以下を貼り付け
+
+yaml
+name: update-news
+
+on:
+  schedule:
+    - cron: "0 22 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch and Translate News
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/fetch_and_translate.py
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/
+          if git diff --staged --quiet; then
+            echo "no changes"
+          else
+            git commit -m "update news"
+            git push
+          fi
+③ 右上「Commit changes」→「Commit changes」
 
 
-Claude Fable 5 は現在ご利用いただけません。
-詳細を見る(opens in new tab)
+
 
 
 
