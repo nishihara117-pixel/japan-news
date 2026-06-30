@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026年06月29日 22:57 JST",
+  "generated_at": "2026年06月30日 19:43 JST",
   "article_count": 12,
   "articles": [
     {
@@ -8,15 +8,39 @@
       "link": "https://www.bbc.co.uk/news/articles/c9q2pwzngjqo?at_medium=RSS&at_campaign=rss",
       "logo": "BBC",
       "title_ja": "韓国、880兆ウォン規模の半導体・AI投資計画を発表",
-      "summary_ja": "韓国は8800億ドル規模の半導体および人工知能（AI）への投資計画を発表した。台湾・中国・日本などアジアの競合国が半導体工場などテクノロジー分野に積極的な投資を行っている状況を受けた動きである。韓国はこの大規模投資により、激化する地域間の技術競争に対応していく狙いがある。"
+      "summary_ja": "韓国政府は、半導体および人工知能（AI）分野に約880兆ウォン（約880億ドル）を投資する大規模な計画を発表した。台湾・中国・日本といった地域のライバル国が半導体工場などの技術分野に積極的な投資を進める中、韓国もその競争に対抗する姿勢を示した。この計画は、激化する技術覇権争いにおいて韓国の競争力を維持・強化することを目的としている。"
+    },
+    {
+      "title": "Angry Venezuelans accuse government of negligence over earthquake response",
+      "desc": "People in areas devastated by twin earthquakes say they need more support from the government.",
+      "link": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss",
+      "logo": "BBC",
+      "title_ja": "怒りのベネズエラ市民、地震対応での政府の怠慢を非難",
+      "summary_ja": "二度の地震によって壊滅的な被害を受けた地域の住民たちが、政府に対してより多くの支援を求めている。被災者たちは政府の対応が不十分であるとして強い怒りを示している。政府の怠慢な危機対応に対する批判の声が、被災地で高まっている。"
+    },
+    {
+      "title": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
+      "desc": "In areas devastated by the twin earthquakes, people are using crowbars, pickaxes and their bare hands to try to reach survivors.",
+      "link": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss",
+      "logo": "BBC",
+      "title_ja": "余震が不安を高める中、多くのベネズエラ人が自力での対応を強いられる",
+      "summary_ja": "二度の地震に見舞われた被災地では、人々がバールやつるはし、素手を使って生存者の救出を試みている。多くのベネズエラ人は十分な支援を受けられず、自力で対応せざるを得ない状況に置かれている。さらに余震が続く中、被災者たちの不安と緊張は高まり続けている。"
+    },
+    {
+      "title": "Osaka pays 'love and respect to Japan' in Wimbledon kimono",
+      "desc": "Naomi Osaka has long been renowned for dazzling crowds with her on-court outfits - but making that compatible with Wimbledon's all-white dress code required special inspiration.",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/cd0mymk9d70o?at_medium=RSS&at_campaign=rss",
+      "logo": "BBC",
+      "title_ja": "大坂なおみ、ウィンブルドンで着物姿を披露し「日本への愛と敬意」を表現",
+      "summary_ja": "テニス選手の大坂なおみは、コート上のファッションで観客を魅了してきたことで長年知られている。しかし、ウィンブルドンのオールホワイトのドレスコードに対応するためには、特別なインスピレーションが必要だった。大坂は日本の着物からヒントを得たデザインでそれを実現し、日本への愛と敬意を表現した。"
     },
     {
       "title": "Mum rescued from Venezuela rubble with newborn baby tells BBC how he helped her survive",
       "desc": "The \"miracle\" rescue of 18-day-old baby Juan David is a symbol of hope in Venezuela after the devastating earthquakes.",
       "link": "https://www.bbc.co.uk/news/articles/clyw3rkj2p7o?at_medium=RSS&at_campaign=rss",
       "logo": "BBC",
-      "title_ja": "ベネズエラの瓦礫から新生児とともに救出された母親、赤ちゃんが生き延びる助けになったとBBCに語る",
-      "summary_ja": "ベネズエラを襲った壊滅的な地震の後、生後18日の赤ちゃんフアン・ダビッドが奇跡的に救出された。母親は瓦礫の中で我が子とともに生き延び、赤ちゃんの存在が自分の生存を助けてくれたとBBCに語った。この救出劇は、地震で大きな被害を受けたベネズエラの人々にとって希望の象徴となっている。"
+      "title_ja": "ベネズエラの瓦礫から新生児とともに救出された母親、赤ちゃんが生存を助けてくれたとBBCに語る",
+      "summary_ja": "ベネズエラを襲った壊滅的な地震の後、生後18日の赤ちゃんフアン・ダビッドが瓦礫の中から奇跡的に救出された。母親はBBCのインタビューで、この小さな命が自分の生存意欲を支えてくれたと語った。この「奇跡の救出」は、震災に苦しむベネズエラの人々にとって希望の象徴となっている。"
     },
     {
       "title": "BBC at Venezuela baseball stadium sheltering earthquake survivors",
@@ -24,47 +48,15 @@
       "link": "https://www.bbc.co.uk/news/videos/c5yz392v508o?at_medium=RSS&at_campaign=rss",
       "logo": "BBC",
       "title_ja": "BBCがベネズエラの地震被災者を収容する野球スタジアムを取材",
-      "summary_ja": "ベネズエラでは地震の被災者たちが野球スタジアムに避難している。被災者たちは、国の復興が進む中、当局が何らかの仮設住居を提供してくれることを望んでいる。現在は寄付された食料や衣類に頼りながら生活を続けている。"
-    },
-    {
-      "title": "Anger directed at Venezuela's official response to earthquake recovery",
-      "desc": "Residents in quake-affected areas have expressed anger over the state's efforts to locate survivors and help victims, the BBC's Orla Guerin reports.",
-      "link": "https://www.bbc.co.uk/news/videos/cj4glezz1jvo?at_medium=RSS&at_campaign=rss",
-      "logo": "BBC",
-      "title_ja": "地震復興に対するベネズエラ政府の対応に怒りの声",
-      "summary_ja": "地震の被害を受けた地域の住民たちが、生存者の捜索や被災者支援に対するベネズエラ政府の取り組みに強い怒りを示している。BBCのオーラ・ゲリン記者がこの状況を報告している。住民たちは政府の対応が不十分であるとして、不満と批判の声を上げている。"
-    },
-    {
-      "title": "Watch: Inside the Venezuela country club now a makeshift hospital",
-      "desc": "Survivors of Venezuela's devastating earthquakes are being cared for at a makeshift hospital formed on the site of a country club in Caraballeda.",
-      "link": "https://www.bbc.co.uk/news/videos/clyx5r0068go?at_medium=RSS&at_campaign=rss",
-      "logo": "BBC",
-      "title_ja": "映像：ベネズエラのカントリークラブが臨時病院に転用",
-      "summary_ja": "ベネズエラを襲った壊滅的な地震の生存者たちが、カラバジェーダにあるカントリークラブを転用した臨時病院で治療を受けている。深刻な被害をもたらした地震により、既存の医療施設だけでは対応しきれない状況となっている。そのため、カントリークラブの施設が緊急の医療拠点として活用されており、被災者たちの救護活動が続けられている。"
-    },
-    {
-      "title": "Panic attacks and fractures - Venezuela hospital treats earthquake victims",
-      "desc": "The BBC travelled to a Caracas hospital that is treating people from the worst affected areas.",
-      "link": "https://www.bbc.co.uk/news/videos/cm2d0rjg4l3o?at_medium=RSS&at_campaign=rss",
-      "logo": "BBC",
-      "title_ja": "パニック発作と骨折 - ベネズエラの病院が地震被害者を治療",
-      "summary_ja": "BBCは、地震で最も被害を受けた地域からの被災者を治療しているカラカスの病院を取材した。病院では、骨折などの身体的外傷を負った患者だけでなく、パニック発作などの精神的ショックを受けた被害者も受け入れている。地震による深刻な被害状況が、現地の医療現場にも大きな負担をもたらしていることが明らかになった。"
-    },
-    {
-      "title": "Watch: A race against the clock for Venezuela earthquake rescuers",
-      "desc": "There is a sense that the next few hours will be critical for saving anyone who is still trapped, says the BBC's Dan Johnson reporting from the border of Venezuela and Columbia.",
-      "link": "https://www.bbc.co.uk/news/videos/cjdgrrvvvjgo?at_medium=RSS&at_campaign=rss",
-      "logo": "BBC",
-      "title_ja": "時間との戦い：ベネズエラ地震の救助隊員たち",
-      "summary_ja": "ベネズエラで発生した地震において、救助隊員たちが懸命な救助活動を続けている。BBCのダン・ジョンソン記者がベネズエラとコロンビアの国境から報告しており、今後数時間が依然として瓦礫の下に閉じ込められている人々を救助するための重大な局面になると伝えている。生存者の救出に向け、一刻を争う状況が続いている。"
+      "summary_ja": "ベネズエラでは地震の被災者たちが野球スタジアムに避難している。被災者たちは、国の復興が進む中で当局が何らかの仮設住居を提供してくれることを望んでいる。現在は寄付された食料や衣類に頼って生活している状況だ。"
     },
     {
       "title": "They bought an abandoned 'ghost house' in the Japanese countryside",
       "desc": "He'd spent years backpacking around the world, and Japanese traveler Daisuke Kajiyama was finally ready to return home to pursue his long-held dream of opening up a guesthouse.",
       "link": "https://www.cnn.com/travel/article/couple-turned-abandoned-japanese-home-into-guest-house/index.html",
       "logo": "CNN",
-      "title_ja": "日本の田舎で廃屋となった「幽霊屋敷」を購入した夫婦",
-      "summary_ja": "日本人旅行者の梶山大輔氏は、長年世界中をバックパッカーとして旅した後、ゲストハウスを開くという長年の夢を実現するために帰国を決意した。彼は日本の田舎にある廃墟となった「幽霊屋敷」を購入し、その夢への第一歩を踏み出した。過疎化が進む日本の農村部では空き家問題が深刻化しており、このような廃屋の再活用が注目されている。"
+      "title_ja": "日本の田舎で廃墟の「幽霊屋敷」を購入した夫婦",
+      "summary_ja": "日本人旅行者の梶山大輔さんは、長年世界中をバックパッカーとして旅した後、故郷に戻りゲストハウスを開くという長年の夢を実現しようと決意した。彼は日本の田舎にある廃墟となった「幽霊屋敷」を購入し、その夢に向けて歩み始めた。過疎化が進む日本の農村部では空き家問題が深刻化しており、こうした物件を活用する取り組みが注目されている。"
     },
     {
       "title": "Japan",
@@ -72,15 +64,15 @@
       "link": "https://www.cnn.com/specials/asia/japan?utm_source=section",
       "logo": "CNN",
       "title_ja": "日本",
-      "summary_ja": "ニュース記事の本文が提供されていないため、要約を作成することができません。記事の内容をご提供いただければ、日本語に翻訳・要約いたします。タイトルは「日本」とのことですが、具体的な情報がないため詳細な要約は困難です。"
+      "summary_ja": "ニュース記事の本文が提供されていないため、要約を作成することができません。記事の内容を入力していただければ、日本語に翻訳・要約いたします。詳細な内容をご提供ください。"
     },
     {
       "title": "This 'edible' plastic bag alternative could save Nara's sacred deer",
       "desc": "A local entrepreneur in the Japanese tourist destination of Nara has developed an alternative to plastic shopping bags, to protect the town's sacred deer.",
       "link": "https://www.cnn.com/travel/article/nara-deer-plastic-bags-scli-intl-scn/index.html",
       "logo": "CNN",
-      "title_ja": "奈良の神聖な鹿を守る「食べられる」プラスチック袋の代替品",
-      "summary_ja": "日本の観光地・奈良で、地元の起業家がプラスチック製レジ袋の代替品を開発した。この取り組みは、奈良の神聖な鹿を保護することを目的としている。鹿がプラスチック袋を誤って食べてしまう問題を解決するため、食べても安全な素材で作られた袋が考案された。"
+      "title_ja": "奈良の神聖な鹿を守る「食べられる」レジ袋の代替品",
+      "summary_ja": "日本の観光地・奈良で、地元の起業家がプラスチック製レジ袋に代わる新しい素材を開発した。この取り組みは、奈良の象徴である神聖な鹿を保護することを目的としている。鹿がプラスチックを誤って食べてしまう問題を解決するため、食べても安全な素材が使用されているとみられる。"
     },
     {
       "title": "Wildlife is flourishing around Fukushima",
@@ -88,7 +80,7 @@
       "link": "https://www.cnn.com/2020/01/07/asia/fukushima-wildlife-intl-scli-scn/index.html",
       "logo": "CNN",
       "title_ja": "福島周辺で野生動物が繁栄",
-      "summary_ja": "日本の福島原発事故から約10年が経過し、研究者たちが興味深い発見をした。放射能汚染があるにもかかわらず、人間が避難した地域で野生動物が活発に生息・繁栄していることが明らかになった。人間の不在が、放射線の影響を上回る形で生態系の回復を促している可能性を示している。"
+      "summary_ja": "日本の福島原発事故から約10年が経過した現在、研究者たちが興味深い発見をした。放射能汚染にもかかわらず、人間が避難した地域では野生動物が繁栄していることが明らかになった。人間の不在が、放射線の影響を上回る形で野生生物の回復・繁栄を促していると考えられている。"
     },
     {
       "title": "Travel to Japan during Covid-19: What you need to know",
@@ -96,7 +88,15 @@
       "link": "https://www.cnn.com/travel/article/japan-travel-covid-19/index.html",
       "logo": "CNN",
       "title_ja": "新型コロナウイルス感染拡大中の日本旅行：知っておくべきこと",
-      "summary_ja": "世界的な新型コロナウイルスのパンデミック中に日本を訪れる際に必要な情報をまとめた記事です。日本旅行を計画している人向けに、渡航前に知っておくべき事項や現地での注意点が解説されています。コロナ禍における日本旅行を検討している方にとって、必要な準備や心構えを把握するための参考情報となっています。"
+      "summary_ja": "新型コロナウイルスのパンデミック中に日本への旅行を計画している人向けの情報をまとめた記事です。日本を訪問する際に必要な知識や注意事項について解説しています。渡航前に最新の入国規制や感染対策のルールを確認することが重要です。"
+    },
+    {
+      "title": "Hundreds stranded after deadly 7.4 magnitude quake hits Taiwan",
+      "desc": "Rescue teams are trying to reach more than 700 people stranded in eastern Taiwan following the strongest earthquake to hit the island in decades.",
+      "link": "https://www.cnn.com/asia/live-news/taiwan-earthquake-hualien-04-04-23-hnk-intl/index.html",
+      "logo": "CNN",
+      "title_ja": "台湾でマグニチュード7.4の大地震、数百人が孤立",
+      "summary_ja": "台湾東部で数十年ぶりの大規模地震となるマグニチュード7.4の地震が発生した。700人以上が孤立した状態となっており、救助隊が懸命に救出活動を続けている。この地震は台湾を襲った数十年で最も強い地震とされている。"
     }
   ]
 }
