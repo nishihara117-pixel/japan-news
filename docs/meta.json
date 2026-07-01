@@ -1,62 +1,38 @@
 {
-  "generated_at": "2026年06月30日 19:43 JST",
+  "generated_at": "2026年07月01日 19:56 JST",
   "article_count": 12,
   "articles": [
+    {
+      "title": "What are US and Japanese soldiers doing in the middle of the Australian bush?",
+      "desc": "The BBC's Katy Watson explains why troops are training in remote Australia, thousands of kilometres from any major conflicts.",
+      "link": "https://www.bbc.co.uk/news/videos/cyv09p2vy87o?at_medium=RSS&at_campaign=rss",
+      "logo": "BBC",
+      "title_ja": "米軍と自衛隊はなぜオーストラリアの奥地にいるのか？",
+      "summary_ja": "BBCのケイティ・ワトソン記者が、主要な紛争地域から数千キロも離れたオーストラリアの遠隔地で米軍と日本の自衛隊が合同訓練を行っている理由を解説している。この訓練は、インド太平洋地域における安全保障上の連携強化を目的としたものとみられる。主要な紛争地から離れた場所での訓練は、各国軍の相互運用能力を高め、地域の安定維持に向けた同盟強化の一環と位置づけられている。"
+    },
     {
       "title": "South Korea unveils $880bn chip and AI investment plan",
       "desc": "It comes as regional rivals like Taiwan, China and Japan are investing heavily in chip factories and other technology.",
       "link": "https://www.bbc.co.uk/news/articles/c9q2pwzngjqo?at_medium=RSS&at_campaign=rss",
       "logo": "BBC",
-      "title_ja": "韓国、880兆ウォン規模の半導体・AI投資計画を発表",
-      "summary_ja": "韓国政府は、半導体および人工知能（AI）分野に約880兆ウォン（約880億ドル）を投資する大規模な計画を発表した。台湾・中国・日本といった地域のライバル国が半導体工場などの技術分野に積極的な投資を進める中、韓国もその競争に対抗する姿勢を示した。この計画は、激化する技術覇権争いにおいて韓国の競争力を維持・強化することを目的としている。"
-    },
-    {
-      "title": "Angry Venezuelans accuse government of negligence over earthquake response",
-      "desc": "People in areas devastated by twin earthquakes say they need more support from the government.",
-      "link": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss",
-      "logo": "BBC",
-      "title_ja": "怒りのベネズエラ市民、地震対応での政府の怠慢を非難",
-      "summary_ja": "二度の地震によって壊滅的な被害を受けた地域の住民たちが、政府に対してより多くの支援を求めている。被災者たちは政府の対応が不十分であるとして強い怒りを示している。政府の怠慢な危機対応に対する批判の声が、被災地で高まっている。"
+      "title_ja": "韓国、8800億ドル規模の半導体・AI投資計画を発表",
+      "summary_ja": "韓国は、半導体および人工知能（AI）分野に対する大規模な投資計画を発表した。その規模は8800億ドル（約880兆ウォン）に上る。台湾、中国、日本といった地域のライバル国が半導体工場などの技術分野に積極的な投資を進める中、韓国もこれに対抗すべく国家的な戦略を打ち出した形だ。"
     },
     {
       "title": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
       "desc": "In areas devastated by the twin earthquakes, people are using crowbars, pickaxes and their bare hands to try to reach survivors.",
       "link": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss",
       "logo": "BBC",
-      "title_ja": "余震が不安を高める中、多くのベネズエラ人が自力での対応を強いられる",
-      "summary_ja": "二度の地震に見舞われた被災地では、人々がバールやつるはし、素手を使って生存者の救出を試みている。多くのベネズエラ人は十分な支援を受けられず、自力で対応せざるを得ない状況に置かれている。さらに余震が続く中、被災者たちの不安と緊張は高まり続けている。"
-    },
-    {
-      "title": "Osaka pays 'love and respect to Japan' in Wimbledon kimono",
-      "desc": "Naomi Osaka has long been renowned for dazzling crowds with her on-court outfits - but making that compatible with Wimbledon's all-white dress code required special inspiration.",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/cd0mymk9d70o?at_medium=RSS&at_campaign=rss",
-      "logo": "BBC",
-      "title_ja": "大坂なおみ、ウィンブルドンで着物姿を披露し「日本への愛と敬意」を表現",
-      "summary_ja": "テニス選手の大坂なおみは、コート上のファッションで観客を魅了してきたことで長年知られている。しかし、ウィンブルドンのオールホワイトのドレスコードに対応するためには、特別なインスピレーションが必要だった。大坂は日本の着物からヒントを得たデザインでそれを実現し、日本への愛と敬意を表現した。"
-    },
-    {
-      "title": "Mum rescued from Venezuela rubble with newborn baby tells BBC how he helped her survive",
-      "desc": "The \"miracle\" rescue of 18-day-old baby Juan David is a symbol of hope in Venezuela after the devastating earthquakes.",
-      "link": "https://www.bbc.co.uk/news/articles/clyw3rkj2p7o?at_medium=RSS&at_campaign=rss",
-      "logo": "BBC",
-      "title_ja": "ベネズエラの瓦礫から新生児とともに救出された母親、赤ちゃんが生存を助けてくれたとBBCに語る",
-      "summary_ja": "ベネズエラを襲った壊滅的な地震の後、生後18日の赤ちゃんフアン・ダビッドが瓦礫の中から奇跡的に救出された。母親はBBCのインタビューで、この小さな命が自分の生存意欲を支えてくれたと語った。この「奇跡の救出」は、震災に苦しむベネズエラの人々にとって希望の象徴となっている。"
-    },
-    {
-      "title": "BBC at Venezuela baseball stadium sheltering earthquake survivors",
-      "desc": "The survivors are hopeful the authorities will find them some form of temporary accommodation while the country rebuilds - for now they are dependant on donated food and clothing.",
-      "link": "https://www.bbc.co.uk/news/videos/c5yz392v508o?at_medium=RSS&at_campaign=rss",
-      "logo": "BBC",
-      "title_ja": "BBCがベネズエラの地震被災者を収容する野球スタジアムを取材",
-      "summary_ja": "ベネズエラでは地震の被災者たちが野球スタジアムに避難している。被災者たちは、国の復興が進む中で当局が何らかの仮設住居を提供してくれることを望んでいる。現在は寄付された食料や衣類に頼って生活している状況だ。"
+      "title_ja": "余震が神経を揺さぶる中、多くのベネズエラ人が自力での対応を余儀なくされる",
+      "summary_ja": "二度の地震で壊滅的な被害を受けた地域では、人々がバールやつるはし、素手を使って生存者の救出に当たっている。余震が続く中、被災者たちは不安と恐怖にさらされながら困難な状況に置かれている。十分な支援が届かない中、多くのベネズエラ人が自力で災害に立ち向かうことを強いられている。"
     },
     {
       "title": "They bought an abandoned 'ghost house' in the Japanese countryside",
       "desc": "He'd spent years backpacking around the world, and Japanese traveler Daisuke Kajiyama was finally ready to return home to pursue his long-held dream of opening up a guesthouse.",
       "link": "https://www.cnn.com/travel/article/couple-turned-abandoned-japanese-home-into-guest-house/index.html",
       "logo": "CNN",
-      "title_ja": "日本の田舎で廃墟の「幽霊屋敷」を購入した夫婦",
-      "summary_ja": "日本人旅行者の梶山大輔さんは、長年世界中をバックパッカーとして旅した後、故郷に戻りゲストハウスを開くという長年の夢を実現しようと決意した。彼は日本の田舎にある廃墟となった「幽霊屋敷」を購入し、その夢に向けて歩み始めた。過疎化が進む日本の農村部では空き家問題が深刻化しており、こうした物件を活用する取り組みが注目されている。"
+      "title_ja": "日本の田舎で放棄された「幽霊屋敷」を購入した夫婦",
+      "summary_ja": "日本人旅行者の梶山大介氏は、長年世界中をバックパッカーとして旅した後、故郷に戻りゲストハウスを開くという長年の夢を追うことを決意した。彼は日本の田舎にある廃屋、いわゆる「幽霊屋敷」を購入し、その夢の実現に向けて歩み始めた。日本の地方では空き家問題が深刻化しており、こうした廃屋を再活用する取り組みが注目を集めている。"
     },
     {
       "title": "Japan",
@@ -64,7 +40,7 @@
       "link": "https://www.cnn.com/specials/asia/japan?utm_source=section",
       "logo": "CNN",
       "title_ja": "日本",
-      "summary_ja": "ニュース記事の本文が提供されていないため、要約を作成することができません。記事の内容を入力していただければ、日本語に翻訳・要約いたします。詳細な内容をご提供ください。"
+      "summary_ja": "ニュース本文が提供されていないため、要約を作成することができません。記事の内容が空白となっています。翻訳・要約を行うには、具体的なニュース本文の入力が必要です。"
     },
     {
       "title": "This 'edible' plastic bag alternative could save Nara's sacred deer",
@@ -72,7 +48,7 @@
       "link": "https://www.cnn.com/travel/article/nara-deer-plastic-bags-scli-intl-scn/index.html",
       "logo": "CNN",
       "title_ja": "奈良の神聖な鹿を守る「食べられる」レジ袋の代替品",
-      "summary_ja": "日本の観光地・奈良で、地元の起業家がプラスチック製レジ袋に代わる新しい素材を開発した。この取り組みは、奈良の象徴である神聖な鹿を保護することを目的としている。鹿がプラスチックを誤って食べてしまう問題を解決するため、食べても安全な素材が使用されているとみられる。"
+      "summary_ja": "日本の観光地・奈良で、地元の起業家がプラスチック製レジ袋に代わる新しい素材を開発した。この取り組みは、奈良の象徴である神聖な鹿を保護することを目的としている。鹿がプラスチック袋を誤って食べてしまう問題への対策として、万が一食べても安全な「食べられる」素材が注目されている。"
     },
     {
       "title": "Wildlife is flourishing around Fukushima",
@@ -80,7 +56,7 @@
       "link": "https://www.cnn.com/2020/01/07/asia/fukushima-wildlife-intl-scli-scn/index.html",
       "logo": "CNN",
       "title_ja": "福島周辺で野生動物が繁栄",
-      "summary_ja": "日本の福島原発事故から約10年が経過した現在、研究者たちが興味深い発見をした。放射能汚染にもかかわらず、人間が避難した地域では野生動物が繁栄していることが明らかになった。人間の不在が、放射線の影響を上回る形で野生生物の回復・繁栄を促していると考えられている。"
+      "summary_ja": "日本の福島原発事故から約10年が経過した現在、研究者たちは興味深い発見をした。放射性物質による汚染があるにもかかわらず、人間が避難した地域では野生動物が活発に生息していることが明らかになった。人間の不在が生態系にとってプラスの影響をもたらしている可能性が示唆されている。"
     },
     {
       "title": "Travel to Japan during Covid-19: What you need to know",
@@ -88,15 +64,39 @@
       "link": "https://www.cnn.com/travel/article/japan-travel-covid-19/index.html",
       "logo": "CNN",
       "title_ja": "新型コロナウイルス感染拡大中の日本旅行：知っておくべきこと",
-      "summary_ja": "新型コロナウイルスのパンデミック中に日本への旅行を計画している人向けの情報をまとめた記事です。日本を訪問する際に必要な知識や注意事項について解説しています。渡航前に最新の入国規制や感染対策のルールを確認することが重要です。"
+      "summary_ja": "世界的な新型コロナウイルスのパンデミック中に日本を訪れる際に必要な情報をまとめた記事です。日本旅行を計画している方向けに、渡航に際して知っておくべき事項や注意点が解説されています。感染拡大中の旅行には様々な制限や手続きが伴うため、事前に十分な情報収集が重要です。"
     },
     {
       "title": "Hundreds stranded after deadly 7.4 magnitude quake hits Taiwan",
       "desc": "Rescue teams are trying to reach more than 700 people stranded in eastern Taiwan following the strongest earthquake to hit the island in decades.",
       "link": "https://www.cnn.com/asia/live-news/taiwan-earthquake-hualien-04-04-23-hnk-intl/index.html",
       "logo": "CNN",
-      "title_ja": "台湾でマグニチュード7.4の大地震、数百人が孤立",
-      "summary_ja": "台湾東部で数十年ぶりの大規模地震となるマグニチュード7.4の地震が発生した。700人以上が孤立した状態となっており、救助隊が懸命に救出活動を続けている。この地震は台湾を襲った数十年で最も強い地震とされている。"
+      "title_ja": "台湾でマグニチュード7.4の強震、数百人が孤立",
+      "summary_ja": "台湾東部を数十年ぶりの大規模地震となるマグニチュード7.4の地震が襲った。700人以上が孤立しており、救助隊が現地への到達を試みている。この地震は台湾に甚大な被害をもたらし、死者も確認されている。"
+    },
+    {
+      "title": "7.4 magnitude quake hits Taiwan, strongest in 25 years",
+      "desc": "A major earthquake has hit the east coast of Taiwan with a magnitude of 7.4, the strongest on the island in 25 years.",
+      "link": "https://www.cnn.com/asia/live-news/taiwan-earthquake-hualien-tsunami-warning-hnk-intl/index.html",
+      "logo": "CNN",
+      "title_ja": "台湾でマグニチュード7.4の地震、25年ぶりの最大規模",
+      "summary_ja": "台湾東海岸でマグニチュード7.4の大規模な地震が発生した。この地震は台湾において過去25年間で最も強い規模となった。震源は台湾東海岸付近とされている。"
+    },
+    {
+      "title": "Japan Airlines jet burst into flames after collision with quake-relief plane",
+      "desc": "A Japan Airlines plane burst into flames on landing at Tokyo's Haneda airport after it collided with an aircraft involved in earthquake relief efforts. This comes after a 7.5-magnitude earthquake struck the west coast of Japan a day earlier.",
+      "link": "https://www.cnn.com/asia/live-news/japan-earthquake-plane-fire-news-01-02-24/index.html",
+      "logo": "CNN",
+      "title_ja": "日本航空機が地震救援機との衝突後に炎上",
+      "summary_ja": "東京の羽田空港で、日本航空の旅客機が着陸の際に地震救援活動に従事していた航空機と衝突し、炎上した。この事故は、日本の西海岸をマグニチュード7.5の大地震が襲った翌日に発生した。地震救援のために活動していた航空機が関与していたことで、被災地支援にも影響が及ぶことが懸念される。"
+    },
+    {
+      "title": "January 1, 2024 Japan earthquake",
+      "desc": "A 7.5 magnitude earthquake struck western Japan on Monday, triggering tsunami warnings and leaving at least four people dead. Follow here for live news updates.",
+      "link": "https://www.cnn.com/asia/live-news/japan-ishikawa-earthquake-01-01-24/index.html",
+      "logo": "CNN",
+      "title_ja": "2024年1月1日 日本地震",
+      "summary_ja": "2024年1月1日（月）、日本西部でマグニチュード7.5の強い地震が発生しました。この地震により津波警報が発令され、少なくとも4人が死亡しました。現在も最新情報の収集・更新が続けられています。"
     }
   ]
 }
