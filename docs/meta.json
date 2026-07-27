@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026年07月26日 16:46 JST",
+  "generated_at": "2026年07月27日 19:56 JST",
   "article_count": 12,
   "articles": [
-    {
-      "title": "Could you run a country on just three hours of sleep? Japan's PM says she does",
-      "desc": "Japan’s prime minister Sanae Takaichi says she survives on zero to three hours a night, and people are reacting.",
-      "link": "https://www.bbc.co.uk/news/videos/cz05l8ndy0mo?at_medium=RSS&at_campaign=rss",
-      "logo": "BBC",
-      "title_ja": "睡眠3時間以下で国を動かせるか？日本の首相がそう語る",
-      "summary_ja": "日本の高市早苗首相は、毎晩0〜3時間の睡眠で生活していると明かした。この発言はメディアや一般市民の間で大きな反響を呼んでいる。極端な睡眠不足で国のトップが職務を果たせるのかという疑問や驚きの声が広がっている。"
-    },
     {
       "title": "Tokyo urges men to wear shorts to work, but women say it's 'leg hair harassment'",
       "desc": "The Tokyo Metropolitan Government wants workers to ditch the suit and tie for t-shirts, trainers - and shorts.",
       "link": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&at_campaign=rss",
       "logo": "BBC",
       "title_ja": "東京都が男性にショートパンツ通勤を推奨、しかし女性からは「脚毛ハラスメント」との声",
-      "summary_ja": "東京都は、働く人々にスーツやネクタイの代わりにTシャツやスニーカー、そしてショートパンツの着用を推奨する取り組みを始めた。この施策は職場でのカジュアルな服装を促進し、夏の暑さ対策や働きやすい環境づくりを目的としている。しかし、一部の女性からは男性の脚毛が露出することへの不快感を示す「脚毛ハラスメント」との批判的な声も上がっており、賛否両論を呼んでいる。"
+      "summary_ja": "東京都は、働く男性にスーツやネクタイの代わりにTシャツやスニーカー、ショートパンツを着用するよう呼びかけている。これは夏場の冷房使用を抑制し、省エネを促進する取り組みの一環とみられる。しかし一部の女性からは、男性の脚の露出が不快だとして「脚毛ハラスメント」との批判の声も上がっている。"
+    },
+    {
+      "title": "The woman promoting the UK pottery region to Japan",
+      "desc": "Yuri Kawakami-Shotton is praised for her Spode Museum tours, in bringing in Japanese visitors.",
+      "link": "https://www.bbc.co.uk/news/articles/cy7405m8ke1o?at_medium=RSS&at_campaign=rss",
+      "logo": "BBC",
+      "title_ja": "英国の陶芸地域を日本に広める女性",
+      "summary_ja": "川上＝ショットンユリ氏は、英国の陶芸の名産地においてスポードミュージアムのツアーガイドとして高く評価されています。彼女は日本人観光客をこの地域に呼び込む架け橋として重要な役割を果たしています。その活動を通じて、英国の陶芸文化と日本をつなぐ存在として注目を集めています。"
     },
     {
       "title": "The notorious Cameroonian prison with its own record label",
@@ -24,15 +24,7 @@
       "link": "https://www.bbc.co.uk/news/articles/czxqlkrlj7no?at_medium=RSS&at_campaign=rss",
       "logo": "BBC",
       "title_ja": "独自のレコードレーベルを持つカメルーンの悪名高い刑務所",
-      "summary_ja": "カメルーンにある「ニュー・ベル刑務所」は、独自のレコードレーベルを持つことで知られる異色の刑事施設です。収監されている囚人たちは、刑務所内で楽曲や音楽ビデオを制作・録音し、ミニスターとして注目を集めています。刑務所という閉鎖的な環境の中で生まれた音楽活動が、独特の文化現象として話題を呼んでいます。"
-    },
-    {
-      "title": "Families still search for bodies a month after Venezuela earthquakes",
-      "desc": "Officials say the death toll has surpassed 5,300, though estimates of the number still missing could be as high as 50,000.",
-      "link": "https://www.bbc.co.uk/news/videos/cwylplxk8nko?at_medium=RSS&at_campaign=rss",
-      "logo": "BBC",
-      "title_ja": "ベネズエラ地震から1ヶ月、今も遺体を探し続ける家族たち",
-      "summary_ja": "ベネズエラで発生した地震から1ヶ月が経過した現在も、多くの家族が行方不明の肉親の遺体を探し続けている。当局によると、死者数はすでに5,300人を超えたとされている。さらに、行方不明者の数は最大で5万人に上る可能性があると推計されており、被害の深刻さが浮き彫りとなっている。"
+      "summary_ja": "カメルーンにあるニュー・ベル刑務所では、収監された囚人たちが刑務所内で楽曲や音楽ビデオを制作し、小さなスターとして注目を集めている。この刑務所は劣悪な環境で悪名高い一方、独自のレコードレーベルを持つというユニークな一面も持つ。塀の中から生まれた音楽活動が、囚人たちに新たな表現の場と社会的な注目をもたらしている。"
     },
     {
       "title": "They bought an abandoned 'ghost house' in the Japanese countryside",
@@ -40,7 +32,7 @@
       "link": "https://www.cnn.com/travel/article/couple-turned-abandoned-japanese-home-into-guest-house/index.html",
       "logo": "CNN",
       "title_ja": "日本の田舎で廃墟の「幽霊屋敷」を購入した夫婦",
-      "summary_ja": "日本人旅行者の梶山大輔氏は、数年間にわたり世界中をバックパッカーとして旅した後、ゲストハウスを開くという長年の夢を実現するために帰国を決意した。彼は日本の田舎にある廃墟となった古民家を購入し、新たな挑戦に踏み出した。訪日外国人旅行者の増加とともに、地方の空き家を活用したゲストハウス経営への関心が高まっている。"
+      "summary_ja": "日本人旅行者の梶山大輔氏は、長年世界中をバックパッカーとして旅した末に、ゲストハウスを開くという長年の夢を実現するために帰国を決意した。彼は日本の田舎にある廃屋、いわゆる「幽霊屋敷」を購入し、その夢への第一歩を踏み出した。日本の地方では空き家問題が深刻化しており、こうした古民家を再活用する取り組みが注目を集めている。"
     },
     {
       "title": "Japan",
@@ -48,23 +40,23 @@
       "link": "https://www.cnn.com/specials/asia/japan?utm_source=section",
       "logo": "CNN",
       "title_ja": "日本",
-      "summary_ja": "ニュース本文が提供されていないため、要約を作成することができません。記事の内容が空白となっています。翻訳・要約を行うには、具体的なニュース本文の入力が必要です。"
+      "summary_ja": "ニュース記事の本文が提供されていないため、要約を作成することができません。記事の内容を入力していただく必要があります。詳細な情報をご提供いただければ、適切な日本語要約をお届けします。"
     },
     {
       "title": "This 'edible' plastic bag alternative could save Nara's sacred deer",
       "desc": "A local entrepreneur in the Japanese tourist destination of Nara has developed an alternative to plastic shopping bags, to protect the town's sacred deer.",
       "link": "https://www.cnn.com/travel/article/nara-deer-plastic-bags-scli-intl-scn/index.html",
       "logo": "CNN",
-      "title_ja": "奈良の神聖な鹿を守る「食べられる」プラスチック袋の代替品",
-      "summary_ja": "日本の観光地・奈良で、地元の起業家がプラスチック製買い物袋の代替品を開発した。この取り組みは、奈良の神聖な鹿を保護することを目的としている。鹿がプラスチック袋を誤って食べてしまう問題への解決策として、食べても安全な素材で作られた袋が考案された。"
+      "title_ja": "奈良の神聖な鹿を守る「食べられる」レジ袋代替品",
+      "summary_ja": "日本の観光地・奈良で、地元の起業家がプラスチック製レジ袋に代わる新しい素材を開発した。この取り組みは、奈良の象徴である神聖な鹿を保護することを目的としている。鹿がプラスチックを誤飲する問題が深刻化する中、食べても安全な素材で作られた袋が解決策として注目されている。"
     },
     {
       "title": "Wildlife is flourishing around Fukushima",
       "desc": "Nearly a decade after Japan's Fukushima nuclear disaster, researchers have discovered that wildlife is thriving in the areas evacuated by humans, despite radiological contamination.",
       "link": "https://www.cnn.com/2020/01/07/asia/fukushima-wildlife-intl-scli-scn/index.html",
       "logo": "CNN",
-      "title_ja": "福島周辺で野生生物が繁栄",
-      "summary_ja": "日本の福島原発事故から約10年が経過し、研究者たちが興味深い発見をした。放射性物質による汚染があるにもかかわらず、人間が避難した地域では野生生物が盛んに生息していることが明らかになった。これは、放射線汚染よりも人間の不在が野生生物の繁栄に大きく寄与している可能性を示唆している。"
+      "title_ja": "福島周辺で野生動物が繁栄",
+      "summary_ja": "日本の福島原発事故から約10年が経過した現在、研究者たちが興味深い発見をした。放射能汚染にもかかわらず、人間が避難した地域では野生動物が活発に生息していることが明らかになった。人間の不在が、放射線による影響を上回る形で野生動物の繁栄をもたらしているとみられる。"
     },
     {
       "title": "Travel to Japan during Covid-19: What you need to know",
@@ -72,31 +64,39 @@
       "link": "https://www.cnn.com/travel/article/japan-travel-covid-19/index.html",
       "logo": "CNN",
       "title_ja": "新型コロナウイルス感染拡大中の日本旅行：知っておくべきこと",
-      "summary_ja": "新型コロナウイルスのパンデミック期間中に日本への旅行を計画している方向けの情報を紹介しています。渡航前に知っておくべき必要事項や、現地で想定される状況について解説しています。安全に日本を訪問するために、事前に十分な情報収集と準備を行うことが重要です。"
+      "summary_ja": "新型コロナウイルスのパンデミックが続く中、日本への旅行を計画している人向けに必要な情報がまとめられています。渡航前に知っておくべき事項や、現地での注意点について解説しています。旅行者はこれらの情報を事前に確認し、準備を整えることが重要です。"
     },
     {
       "title": "Hundreds stranded after deadly 7.4 magnitude quake hits Taiwan",
       "desc": "Rescue teams are trying to reach more than 700 people stranded in eastern Taiwan following the strongest earthquake to hit the island in decades.",
       "link": "https://www.cnn.com/asia/live-news/taiwan-earthquake-hualien-04-04-23-hnk-intl/index.html",
       "logo": "CNN",
-      "title_ja": "台湾でマグニチュード7.4の強震、数百人が孤立",
-      "summary_ja": "台湾東部でここ数十年で最大規模となるマグニチュード7.4の地震が発生した。700人以上が孤立しており、救助隊が現地への到達を試みている。この地震は死者も出る深刻な被害をもたらしている。"
+      "title_ja": "台湾でマグニチュード7.4の大地震、数百人が孤立",
+      "summary_ja": "台湾東部を数十年ぶりの大規模地震となるマグニチュード7.4の地震が直撃した。700人以上が孤立状態となっており、救助隊が現地への到達を試みている。死者も確認されており、被害の全容解明が急がれている。"
     },
     {
       "title": "7.4 magnitude quake hits Taiwan, strongest in 25 years",
       "desc": "A major earthquake has hit the east coast of Taiwan with a magnitude of 7.4, the strongest on the island in 25 years.",
       "link": "https://www.cnn.com/asia/live-news/taiwan-earthquake-hualien-tsunami-warning-hnk-intl/index.html",
       "logo": "CNN",
-      "title_ja": "台湾でマグニチュード7.4の地震発生、25年ぶりの最大規模",
-      "summary_ja": "台湾東海岸でマグニチュード7.4の大規模な地震が発生した。この地震は台湾において過去25年間で最も強い地震となった。震源は台湾東海岸付近とされており、島全体に大きな影響を与えたとみられる。"
+      "title_ja": "台湾でマグニチュード7.4の地震、25年ぶりの最大規模",
+      "summary_ja": "台湾東部沿岸でマグニチュード7.4の大規模な地震が発生した。この地震は台湾において過去25年間で最も強い揺れを記録した。震源は台湾東海岸付近とされている。"
     },
     {
       "title": "Japan Airlines jet burst into flames after collision with quake-relief plane",
       "desc": "A Japan Airlines plane burst into flames on landing at Tokyo's Haneda airport after it collided with an aircraft involved in earthquake relief efforts. This comes after a 7.5-magnitude earthquake struck the west coast of Japan a day earlier.",
       "link": "https://www.cnn.com/asia/live-news/japan-earthquake-plane-fire-news-01-02-24/index.html",
       "logo": "CNN",
-      "title_ja": "日本航空機が地震救援機との衝突後に炎上",
-      "summary_ja": "東京の羽田空港で日本航空の旅客機が着陸の際に地震救援活動に従事していた航空機と衝突し、炎上した。この事故は、日本の西海岸をマグニチュード7.5の大地震が襲った翌日に発生した。地震救援に向かう航空機が関係していたことで、被災地支援活動にも影響が及ぶことが懸念される。"
+      "title_ja": "日本航空の旅客機が地震救援機との衝突後に炎上",
+      "summary_ja": "東京の羽田空港で日本航空の旅客機が着陸時に別の航空機と衝突し、炎上する事故が発生しました。衝突した相手の航空機は、地震救援活動に従事していた機体でした。この事故は、前日に日本の西海岸でマグニチュード7.5の大地震が発生した翌日に起きたものです。"
+    },
+    {
+      "title": "January 1, 2024 Japan earthquake",
+      "desc": "A 7.5 magnitude earthquake struck western Japan on Monday, triggering tsunami warnings and leaving at least four people dead. Follow here for live news updates.",
+      "link": "https://www.cnn.com/asia/live-news/japan-ishikawa-earthquake-01-01-24/index.html",
+      "logo": "CNN",
+      "title_ja": "2024年1月1日 日本地震",
+      "summary_ja": "2024年1月1日（月）、日本西部でマグニチュード7.5の強い地震が発生しました。この地震により津波警報が発令され、少なくとも4人の死亡が確認されました。現地では引き続き情報収集と救助活動が行われており、被害状況の詳細は随時更新されています。"
     }
   ]
 }
