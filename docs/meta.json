@@ -1,54 +1,30 @@
 {
-  "generated_at": "2026年08月17日 07:15 JST",
-  "article_count": 12,
+  "generated_at": "2026年08月18日 07:18 JST",
+  "article_count": 11,
   "articles": [
+    {
+      "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
+      "desc": "Some 53 people were killed and thousands displaced by the earthquake, which struck early on Saturday.",
+      "link": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
+      "logo": "BBC",
+      "title_ja": "死者を出した地震でインドネシアが混乱、支援物資不足と飢餓への懸念",
+      "summary_ja": "土曜日早朝にインドネシアを襲った地震により、約53人が死亡し、数千人が避難を余儀なくされた。被災地では支援物資が不足しており、住民の間で食料難や飢餓への懸念が高まっている。被害を受けたコミュニティへの緊急支援の確保が急務となっている。"
+    },
     {
       "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
       "desc": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
       "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
       "logo": "BBC",
-      "title_ja": "死者を伴うインドネシア地震で数千人が避難、救助活動が継続",
-      "summary_ja": "インドネシアで大規模な地震が発生し、少なくとも53人が死亡した。数百棟の住宅や公共施設が深刻な被害を受け、数千人が自宅を離れることを余儀なくされている。現在も救助活動が続けられており、被害状況のさらなる拡大が懸念されている。"
-    },
-    {
-      "title": "'Unprecedented' rain in Japan kills eight people",
-      "desc": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
-      "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
-      "logo": "BBC",
-      "title_ja": "「前例のない」大雨が日本で8人の命を奪う",
-      "summary_ja": "日本を襲った記録的な大雨により、8人が死亡した。この嵐により2万世帯以上が停電に見舞われ、インフラに深刻な被害をもたらした。また、東京の成田空港では約7000人の旅客が足止めされる事態となった。"
-    },
-    {
-      "title": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
-      "desc": "It was the first time the Russian leader had visited the Kuril islands, according to state media.",
-      "link": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
-      "logo": "BBC",
-      "title_ja": "日本首相、プーチン氏の係争島嶼訪問を「断じて受け入れられない」と表明",
-      "summary_ja": "日本の首相は、ロシアのプーチン大統領が北方領土（クリル諸島）を訪問したことに対し、「断じて受け入れられない」と強く抗議した。ロシア国営メディアによると、プーチン大統領がクリル諸島を訪問したのは今回が初めてとされる。この訪問は、日露間で長年続く北方領土問題をめぐる緊張をさらに高める可能性がある。"
-    },
-    {
-      "title": "Why are 'human fridges' being sold in Japan?",
-      "desc": "As Japan swelters through extreme summer heat, BBC Tokyo correspondent Kurumi Mori tries out a new way to cool down.",
-      "link": "https://www.bbc.co.uk/news/videos/cjej4y3gvzlo?at_medium=RSS&at_campaign=rss",
-      "logo": "BBC",
-      "title_ja": "なぜ「人間用冷蔵庫」が日本で販売されているのか？",
-      "summary_ja": "日本が記録的な猛暑に見舞われる中、新たな冷却グッズとして「人間用冷蔵庫」と呼ばれる製品が注目を集めている。BBCの東京特派員・森くるみ氏が実際にその製品を試した。極端な夏の暑さに対応するため、日本では斬新な暑さ対策グッズへの需要が高まっている。"
-    },
-    {
-      "title": "Why Japanese firms are being so slow to use AI",
-      "desc": "Japanese risk aversion and conservatism blamed for slow AI take-up by the country's business sector.",
-      "link": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
-      "logo": "BBC",
-      "title_ja": "日本企業がAI導入に遅れをとる理由",
-      "summary_ja": "日本の企業セクターにおけるAI普及の遅さが問題視されている。その主な原因として、日本特有のリスク回避志向や保守的な企業文化が挙げられている。こうした慎重な姿勢が、他国と比べてAI技術の積極的な活用を妨げる要因となっていると指摘されている。"
+      "title_ja": "死者多数のインドネシア地震、救助活動続く中で数千人が避難",
+      "summary_ja": "インドネシアで大規模な地震が発生し、少なくとも53人が死亡した。数百棟の住宅や公共建築物が深刻な被害を受け、数千人が家を失い避難を余儀なくされている。現在も救助活動が続けられており、被害状況のさらなる拡大が懸念されている。"
     },
     {
       "title": "They bought an abandoned 'ghost house' in the Japanese countryside",
       "desc": "He'd spent years backpacking around the world, and Japanese traveler Daisuke Kajiyama was finally ready to return home to pursue his long-held dream of opening up a guesthouse.",
       "link": "https://www.cnn.com/travel/article/couple-turned-abandoned-japanese-home-into-guest-house/index.html",
       "logo": "CNN",
-      "title_ja": "日本の田舎で廃墟の「幽霊屋敷」を購入",
-      "summary_ja": "日本人旅行者の梶山大輔氏は、長年世界中をバックパッカーとして旅した後、ゲストハウスを開くという長年の夢を実現するために帰国を決意した。彼が目をつけたのは、日本の田舎にある廃墟となった「幽霊屋敷」と呼ばれる物件だった。こうした空き家を活用する取り組みは、人口減少が進む日本の地方再生にもつながる新たなトレンドとして注目されている。"
+      "title_ja": "日本の田舎で廃墟の「幽霊屋敷」を購入した夫婦",
+      "summary_ja": "日本人旅行者の梶山大介さんは、長年世界中をバックパッカーとして旅した後、ゲストハウスを開くという長年の夢を実現するために帰国を決意した。彼は日本の田舎にある廃墟となった古民家、いわゆる「幽霊屋敷」を購入し、その夢への第一歩を踏み出した。過疎化が進む日本の地方では空き家問題が深刻化しており、このような廃屋を活用した取り組みが注目を集めている。"
     },
     {
       "title": "Japan",
@@ -56,7 +32,7 @@
       "link": "https://www.cnn.com/specials/asia/japan?utm_source=section",
       "logo": "CNN",
       "title_ja": "日本",
-      "summary_ja": "記事の本文が提供されていないため、要約を作成することができません。翻訳・要約を行うには、具体的なニュース記事の内容が必要です。内容をご提供いただければ、改めて日本語に翻訳・要約いたします。"
+      "summary_ja": "記事の本文内容が提供されていないため、要約を作成することができません。翻訳・要約を行うには、具体的なニュース記事の内容が必要です。内容をご提供いただければ、改めて日本語で要約いたします。"
     },
     {
       "title": "This 'edible' plastic bag alternative could save Nara's sacred deer",
@@ -64,7 +40,7 @@
       "link": "https://www.cnn.com/travel/article/nara-deer-plastic-bags-scli-intl-scn/index.html",
       "logo": "CNN",
       "title_ja": "奈良の神聖な鹿を守る「食べられる」レジ袋代替品",
-      "summary_ja": "日本の観光地・奈良で、地元の起業家がプラスチック製買い物袋に代わる新たな素材を開発した。この取り組みは、奈良の象徴である神聖な鹿を保護することを目的としている。鹿がプラスチック袋を誤って食べてしまう問題を解決するため、万が一口にしても安全な「食べられる」素材が考案された。"
+      "summary_ja": "日本の観光地・奈良で、地元の起業家がプラスチック製買い物袋に代わる新素材を開発した。この取り組みは、奈良を象徴する神聖な鹿を保護することを目的としている。鹿がプラスチック袋を誤って食べてしまう問題への対策として、万が一食べても害のない素材が採用されている。"
     },
     {
       "title": "Wildlife is flourishing around Fukushima",
@@ -72,31 +48,47 @@
       "link": "https://www.cnn.com/2020/01/07/asia/fukushima-wildlife-intl-scli-scn/index.html",
       "logo": "CNN",
       "title_ja": "福島周辺で野生動物が繁栄",
-      "summary_ja": "日本の福島原発事故から約10年が経過し、研究者たちが興味深い発見をした。放射性物質による汚染があるにもかかわらず、人間が避難した地域では野生動物が繁栄していることが明らかになった。人間の不在が、放射線の影響を上回る形で野生動物の生息環境にプラスの効果をもたらしていると考えられる。"
+      "summary_ja": "日本の福島原発事故から約10年が経過し、研究者たちが新たな発見をした。放射能汚染があるにもかかわらず、人間が避難した地域で野生動物が繁栄していることが明らかになった。人の立ち入りがなくなったことで、自然環境が回復しつつあることを示す結果となっている。"
     },
     {
       "title": "Travel to Japan during Covid-19: What you need to know",
       "desc": "If you're planning a trip to Japan, here's what you'll need to know and expect if you want to visit during the global coronavirus pandemic.",
       "link": "https://www.cnn.com/travel/article/japan-travel-covid-19/index.html",
       "logo": "CNN",
-      "title_ja": "新型コロナウイルス感染拡大中の日本旅行：知っておくべきこと",
-      "summary_ja": "新型コロナウイルスのパンデミック中に日本を訪れる際に必要な情報をまとめた記事です。旅行を計画している人々に向けて、渡航前に知っておくべき注意事項や現地での対応について解説しています。感染拡大という特殊な状況下での日本旅行に関する重要なガイダンスを提供しています。"
+      "title_ja": "新型コロナウイルス感染症（Covid-19）流行中の日本旅行：知っておくべきこと",
+      "summary_ja": "世界的な新型コロナウイルスのパンデミック中に日本を訪れる際に必要な情報をまとめた記事です。日本への旅行を計画している方に向けて、渡航前に知っておくべき事項や現地での注意点が解説されています。感染症流行下での旅行に備え、事前に十分な情報収集と準備を行うことが推奨されています。"
     },
     {
       "title": "Hundreds stranded after deadly 7.4 magnitude quake hits Taiwan",
       "desc": "Rescue teams are trying to reach more than 700 people stranded in eastern Taiwan following the strongest earthquake to hit the island in decades.",
       "link": "https://www.cnn.com/asia/live-news/taiwan-earthquake-hualien-04-04-23-hnk-intl/index.html",
       "logo": "CNN",
-      "title_ja": "台湾でマグニチュード7.4の強震、数百人が孤立",
-      "summary_ja": "台湾東部で数十年ぶりとなる強さのマグニチュード7.4の地震が発生した。700人以上が孤立しており、救助隊がその人々への救助活動を懸命に続けている。この地震はすでに死者も出ており、深刻な被害をもたらしている。"
+      "title_ja": "台湾でマグニチュード7.4の大地震、数百人が孤立",
+      "summary_ja": "台湾東部で数十年ぶりとなる大規模な地震（マグニチュード7.4）が発生しました。この地震により700人以上が孤立しており、救助隊が現地への到達を試みています。死者も確認されており、被害の全容解明が急がれています。"
     },
     {
       "title": "7.4 magnitude quake hits Taiwan, strongest in 25 years",
       "desc": "A major earthquake has hit the east coast of Taiwan with a magnitude of 7.4, the strongest on the island in 25 years.",
       "link": "https://www.cnn.com/asia/live-news/taiwan-earthquake-hualien-tsunami-warning-hnk-intl/index.html",
       "logo": "CNN",
-      "title_ja": "台湾でマグニチュード7.4の地震発生、25年間で最大規模",
-      "summary_ja": "台湾の東海岸でマグニチュード7.4の大規模な地震が発生しました。この地震は台湾において過去25年間で最も強い揺れを記録しました。震源は台湾東海岸付近とされており、島全体に大きな影響を与えました。"
+      "title_ja": "台湾でマグニチュード7.4の地震、25年ぶりの最大規模",
+      "summary_ja": "台湾東海岸でマグニチュード7.4の大規模な地震が発生した。この地震は台湾において過去25年間で最も強い揺れを記録した。震源は台湾東海岸付近とされており、島全体に大きな影響を与えた。"
+    },
+    {
+      "title": "Japan Airlines jet burst into flames after collision with quake-relief plane",
+      "desc": "A Japan Airlines plane burst into flames on landing at Tokyo's Haneda airport after it collided with an aircraft involved in earthquake relief efforts. This comes after a 7.5-magnitude earthquake struck the west coast of Japan a day earlier.",
+      "link": "https://www.cnn.com/asia/live-news/japan-earthquake-plane-fire-news-01-02-24/index.html",
+      "logo": "CNN",
+      "title_ja": "日本航空機、地震救援機との衝突後に炎上",
+      "summary_ja": "東京の羽田空港で、日本航空の旅客機が着陸の際に地震救援活動に従事していた航空機と衝突した。衝突後、日本航空機は炎上する事態となった。この事故は、前日に日本の西海岸をマグニチュード7.5の大地震が襲った翌日に発生した。"
+    },
+    {
+      "title": "January 1, 2024 Japan earthquake",
+      "desc": "A 7.5 magnitude earthquake struck western Japan on Monday, triggering tsunami warnings and leaving at least four people dead. Follow here for live news updates.",
+      "link": "https://www.cnn.com/asia/live-news/japan-ishikawa-earthquake-01-01-24/index.html",
+      "logo": "CNN",
+      "title_ja": "2024年1月1日 日本地震",
+      "summary_ja": "2024年1月1日（月）、日本西部でマグニチュード7.5の強い地震が発生した。この地震により津波警報が発令され、少なくとも4人の死亡が確認された。現地では引き続き情報収集と救助活動が行われており、最新情報が随時更新されている。"
     }
   ]
 }
