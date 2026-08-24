@@ -1,30 +1,14 @@
 {
-  "generated_at": "2026年08月24日 07:16 JST",
-  "article_count": 11,
+  "generated_at": "2026年08月25日 07:20 JST",
+  "article_count": 9,
   "articles": [
-    {
-      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
-      "desc": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
-      "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
-      "logo": "BBC",
-      "title_ja": "父親が7歳の息子を富士山に一人残してハイキングを続ける",
-      "summary_ja": "ある父親が2人の息子を連れて富士山へ登山に出かけた。しかし、疲れたことを理由に、7歳の息子の一人をその場に残して登山を続けたとされている。子どもを山中に置き去りにしたこの行為は、安全上の深刻な問題として注目を集めている。"
-    },
-    {
-      "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
-      "desc": "Some 53 people were killed and thousands displaced by the earthquake, which struck early on Saturday.",
-      "link": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
-      "logo": "BBC",
-      "title_ja": "死者を出した地震でインドネシアが混乱、支援物資不足と飢餓への恐れ",
-      "summary_ja": "土曜日の早朝にインドネシアを襲った地震により、約53人が死亡し、数千人が避難を余儀なくされた。被災地では支援物資が不足しており、住民の間で飢餓への懸念が高まっている。当局は救援活動を急いでいるが、被災者への支援が追いついていない状況が続いている。"
-    },
     {
       "title": "They bought an abandoned 'ghost house' in the Japanese countryside",
       "desc": "He'd spent years backpacking around the world, and Japanese traveler Daisuke Kajiyama was finally ready to return home to pursue his long-held dream of opening up a guesthouse.",
       "link": "https://www.cnn.com/travel/article/couple-turned-abandoned-japanese-home-into-guest-house/index.html",
       "logo": "CNN",
-      "title_ja": "日本の田舎の廃墟「幽霊屋敷」を購入した夫婦",
-      "summary_ja": "日本人旅行者の梶山大介氏は、長年世界中をバックパッカーとして旅した後、故郷に戻りゲストハウスを開くという夢を追いかけることを決意した。彼は日本の田舎にある廃墟となった「幽霊屋敷」を購入し、その夢の実現に向けて動き出した。過疎化が進む日本の地方では空き家問題が深刻化しており、こうした古民家を再活用する取り組みが注目を集めている。"
+      "title_ja": "日本の田舎で廃屋となった「幽霊屋敷」を購入した夫婦",
+      "summary_ja": "日本人旅行者の梶山大介さんは、長年世界中をバックパッカーとして旅した後、ゲストハウスを開くという長年の夢を実現するために帰国を決意した。彼は日本の田舎にある廃屋、いわゆる「幽霊屋敷」を購入し、その夢への第一歩を踏み出した。日本の地方では空き家問題が深刻化しており、こうした古民家を再活用する取り組みが注目を集めている。"
     },
     {
       "title": "Japan",
@@ -32,15 +16,15 @@
       "link": "https://www.cnn.com/specials/asia/japan?utm_source=section",
       "logo": "CNN",
       "title_ja": "日本",
-      "summary_ja": "ニュース本文が提供されていないため、要約を生成することができません。記事の内容をご提供いただければ、日本語での要約をお作りします。もう一度、ニュースの本文をご入力ください。"
+      "summary_ja": "ニュース記事の本文が提供されていないため、要約を作成することができません。記事の内容を入力してください。詳細な情報があれば、正確な翻訳・要約をお届けします。"
     },
     {
       "title": "This 'edible' plastic bag alternative could save Nara's sacred deer",
       "desc": "A local entrepreneur in the Japanese tourist destination of Nara has developed an alternative to plastic shopping bags, to protect the town's sacred deer.",
       "link": "https://www.cnn.com/travel/article/nara-deer-plastic-bags-scli-intl-scn/index.html",
       "logo": "CNN",
-      "title_ja": "奈良の神聖な鹿を守る「食べられる」プラスチック袋の代替品",
-      "summary_ja": "日本の観光地・奈良で、地元の起業家がプラスチック製買い物袋の代替品を開発した。この取り組みは、奈良の神聖な鹿を保護することを目的としている。鹿がプラスチック袋を誤って食べてしまう問題への解決策として、食べても安全な素材で作られた袋が注目されている。"
+      "title_ja": "奈良の神聖な鹿を守る「食べられる」レジ袋代替品",
+      "summary_ja": "日本の観光地・奈良で、地元の起業家がプラスチック製レジ袋に代わる新素材を開発した。この取り組みは、奈良の象徴である神聖な鹿を保護することを目的としている。鹿が誤ってプラスチックを食べてしまう問題を解決するため、万が一食べても安全な素材が採用されている。"
     },
     {
       "title": "Wildlife is flourishing around Fukushima",
@@ -48,7 +32,7 @@
       "link": "https://www.cnn.com/2020/01/07/asia/fukushima-wildlife-intl-scli-scn/index.html",
       "logo": "CNN",
       "title_ja": "福島周辺で野生動物が繁栄",
-      "summary_ja": "日本の福島原発事故から約10年が経過し、研究者たちが興味深い発見をしました。放射性物質による汚染があるにもかかわらず、人間が避難した地域では野生動物が活発に生息していることが明らかになりました。人間の不在が、放射線による影響を上回る形で野生動物の繁栄をもたらしていると考えられています。"
+      "summary_ja": "日本の福島原発事故から約10年が経過した現在、研究者たちは興味深い発見をした。放射性物質による汚染があるにもかかわらず、人間が避難した地域で野生動物が旺盛に繁殖・生息していることが明らかになった。人間の不在が、放射線の影響を上回る形で野生動物の生態系に好影響をもたらしている可能性が示唆されている。"
     },
     {
       "title": "Travel to Japan during Covid-19: What you need to know",
@@ -56,15 +40,15 @@
       "link": "https://www.cnn.com/travel/article/japan-travel-covid-19/index.html",
       "logo": "CNN",
       "title_ja": "新型コロナウイルス感染拡大中の日本旅行：知っておくべきこと",
-      "summary_ja": "世界的な新型コロナウイルスのパンデミック下において、日本への旅行を計画している人向けの情報をまとめた記事です。渡航前に知っておくべき事項や、現地での注意点などが解説されています。日本訪問を希望する旅行者は、最新の規制や要件を事前に確認することが重要です。"
+      "summary_ja": "新型コロナウイルスの世界的なパンデミックが続く中、日本への旅行を計画している方向けの情報をまとめた記事です。渡航前に知っておくべき注意事項や、現地での対応について解説しています。旅行者はこれらの情報を事前に確認した上で、日本訪問の準備を進めることが推奨されています。"
     },
     {
       "title": "Hundreds stranded after deadly 7.4 magnitude quake hits Taiwan",
       "desc": "Rescue teams are trying to reach more than 700 people stranded in eastern Taiwan following the strongest earthquake to hit the island in decades.",
       "link": "https://www.cnn.com/asia/live-news/taiwan-earthquake-hualien-04-04-23-hnk-intl/index.html",
       "logo": "CNN",
-      "title_ja": "台湾でマグニチュード7.4の強震、数百人が孤立",
-      "summary_ja": "数十年ぶりとなる大規模地震が台湾を襲い、東部地域で700人以上が孤立状態となっている。救助隊は孤立した人々への救援活動を急いでいる。今回の地震はマグニチュード7.4を記録し、死者も確認されている。"
+      "title_ja": "台湾でマグニチュード7.4の強烈な地震が発生、数百人が孤立",
+      "summary_ja": "台湾東部でここ数十年で最大規模となるマグニチュード7.4の地震が発生した。700人以上が孤立しており、救助隊が現場への到達を試みている。この地震は死者も出ており、台湾に甚大な被害をもたらしている。"
     },
     {
       "title": "7.4 magnitude quake hits Taiwan, strongest in 25 years",
@@ -72,7 +56,7 @@
       "link": "https://www.cnn.com/asia/live-news/taiwan-earthquake-hualien-tsunami-warning-hnk-intl/index.html",
       "logo": "CNN",
       "title_ja": "台湾でマグニチュード7.4の地震発生、25年ぶりの最大規模",
-      "summary_ja": "台湾東海岸でマグニチュード7.4の大規模な地震が発生した。この地震は台湾において過去25年間で最も強い揺れを記録した。震源は台湾東部沿岸に位置していた。"
+      "summary_ja": "台湾東海岸でマグニチュード7.4の大規模な地震が発生した。この地震は台湾において過去25年間で最も強い揺れを記録した。東海岸沿いの地域に大きな影響を与えたとみられる。"
     },
     {
       "title": "Japan Airlines jet burst into flames after collision with quake-relief plane",
@@ -80,7 +64,7 @@
       "link": "https://www.cnn.com/asia/live-news/japan-earthquake-plane-fire-news-01-02-24/index.html",
       "logo": "CNN",
       "title_ja": "日本航空機が地震救援機との衝突後に炎上",
-      "summary_ja": "東京の羽田空港で、日本航空の旅客機が着陸の際に地震救援活動に関わっていた航空機と衝突し、炎上した。この事故は、日本の西海岸をマグニチュード7.5の大地震が襲った翌日に発生した。地震救援のために運航していた航空機が巻き込まれたことで、災害対応にも影響が及ぶことが懸念される。"
+      "summary_ja": "東京・羽田空港で日本航空の旅客機が着陸の際に、地震救援活動に従事していた航空機と衝突し、炎上した。この事故は、前日に日本の西海岸をマグニチュード7.5の大地震が襲った翌日に発生した。地震救援のために活動していた航空機が巻き込まれており、大規模な災害対応が続く中での深刻な事故となった。"
     },
     {
       "title": "January 1, 2024 Japan earthquake",
@@ -88,7 +72,7 @@
       "link": "https://www.cnn.com/asia/live-news/japan-ishikawa-earthquake-01-01-24/index.html",
       "logo": "CNN",
       "title_ja": "2024年1月1日 日本地震",
-      "summary_ja": "2024年1月1日（月）、日本西部でマグニチュード7.5の強い地震が発生しました。この地震により津波警報が発令され、少なくとも4人が死亡しました。現在も最新情報が随時更新されています。"
+      "summary_ja": "2024年1月1日（月）、日本の西部でマグニチュード7.5の大地震が発生しました。この地震により津波警報が発令され、少なくとも4人の死亡が確認されました。現在も最新情報の収集と被害状況の確認が続いています。"
     }
   ]
 }
