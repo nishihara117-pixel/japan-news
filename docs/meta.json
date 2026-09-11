@@ -1,14 +1,22 @@
 {
-  "generated_at": "2026年09月11日 08:38 JST",
-  "article_count": 9,
+  "generated_at": "2026年09月12日 08:49 JST",
+  "article_count": 10,
   "articles": [
+    {
+      "title": "Israel says it has destroyed major underground Hezbollah base",
+      "desc": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
+      "logo": "BBC",
+      "title_ja": "イスラエル、ヒズボラの主要地下基地を破壊したと発表",
+      "summary_ja": "イスラエルは、ヒズボラが保有する大規模な地下基地を破壊したと発表した。この爆発は非常に強力なものであり、米国地質調査所（USGS）によるとマグニチュード4.1の地震に相当する揺れを記録した。この攻撃はイスラエルとヒズボラの間の緊張が続く中で行われた重大な軍事作戦とみられる。"
+    },
     {
       "title": "They bought an abandoned 'ghost house' in the Japanese countryside",
       "desc": "He'd spent years backpacking around the world, and Japanese traveler Daisuke Kajiyama was finally ready to return home to pursue his long-held dream of opening up a guesthouse.",
       "link": "https://www.cnn.com/travel/article/couple-turned-abandoned-japanese-home-into-guest-house/index.html",
       "logo": "CNN",
-      "title_ja": "日本の田舎に放棄された「幽霊屋敷」を購入した夫婦",
-      "summary_ja": "日本人旅行者の梶山大介さんは、長年世界中をバックパッカーとして旅した後、ゲストハウスを開くという長年の夢を実現するために帰国を決意した。彼は日本の田舎にある廃墟となった「幽霊屋敷」を購入し、その夢の実現に向けて歩み始めた。日本の地方では空き家問題が深刻化しており、こうした古民家の再活用が新たな注目を集めている。"
+      "title_ja": "日本の田舎に放棄された「幽霊屋敷」を購入",
+      "summary_ja": "日本人旅行者の梶山大輔さんは、長年にわたり世界中をバックパッカーとして旅してきた。旅を終えた彼は、かねてからの夢であるゲストハウスの開業を実現するために故郷へ帰ることを決意した。彼は日本の田舎に放棄された「幽霊屋敷」を購入し、その夢への第一歩を踏み出した。"
     },
     {
       "title": "Japan",
@@ -16,15 +24,15 @@
       "link": "https://www.cnn.com/specials/asia/japan?utm_source=section",
       "logo": "CNN",
       "title_ja": "日本",
-      "summary_ja": "ニュースの本文内容が提供されていないため、要約を作成することができません。記事の内容をご提供いただければ、日本語に翻訳・要約いたします。もう一度、ニュースの本文をご入力ください。"
+      "summary_ja": "ニュース記事の本文が提供されていないため、要約を作成することができません。記事の内容をご提供いただければ、適切な日本語要約をお届けします。内容をご確認の上、再度お試しください。"
     },
     {
       "title": "This 'edible' plastic bag alternative could save Nara's sacred deer",
       "desc": "A local entrepreneur in the Japanese tourist destination of Nara has developed an alternative to plastic shopping bags, to protect the town's sacred deer.",
       "link": "https://www.cnn.com/travel/article/nara-deer-plastic-bags-scli-intl-scn/index.html",
       "logo": "CNN",
-      "title_ja": "奈良の聖なる鹿を守る「食べられる」レジ袋代替品",
-      "summary_ja": "日本の観光地・奈良で、地元の起業家がプラスチック製レジ袋に代わる新素材を開発した。この取り組みは、奈良の象徴である神聖な鹿を保護することを目的としている。鹿がプラスチックを誤って食べてしまう問題が懸念される中、この食べられる素材の代替品が解決策として注目されている。"
+      "title_ja": "奈良の神聖な鹿を守る「食べられる」エコバッグ代替品",
+      "summary_ja": "日本の観光地・奈良で、地元の起業家がプラスチック製買い物袋に代わる新たな素材を開発した。この取り組みは、奈良を象徴する神聖な鹿たちを守ることを目的としている。鹿がプラスチックごみを誤って食べてしまう問題への対策として、食べても安全な素材が使用されているとみられる。"
     },
     {
       "title": "Wildlife is flourishing around Fukushima",
@@ -32,7 +40,7 @@
       "link": "https://www.cnn.com/2020/01/07/asia/fukushima-wildlife-intl-scli-scn/index.html",
       "logo": "CNN",
       "title_ja": "福島周辺で野生動物が繁栄",
-      "summary_ja": "日本の福島原発事故から約10年が経過し、研究者たちが興味深い発見をした。放射性物質による汚染があるにもかかわらず、人間が避難した地域では野生動物が繁栄していることが明らかになった。人間の不在が、放射線の影響を上回る形で野生動物の生息環境にとってプラスに働いていると考えられる。"
+      "summary_ja": "日本の福島原発事故から約10年が経過し、研究者たちが興味深い発見をした。放射性物質による汚染があるにもかかわらず、人間が避難した地域では野生動物が活発に生息していることが明らかになった。人間の不在が、放射線による影響を上回る形で野生動物の繁栄をもたらしていると考えられる。"
     },
     {
       "title": "Travel to Japan during Covid-19: What you need to know",
@@ -40,23 +48,23 @@
       "link": "https://www.cnn.com/travel/article/japan-travel-covid-19/index.html",
       "logo": "CNN",
       "title_ja": "新型コロナウイルス感染拡大中の日本旅行：知っておくべきこと",
-      "summary_ja": "新型コロナウイルスのパンデミックが続く中、日本への旅行を計画している人向けの情報をまとめた記事です。渡航前に知っておくべき注意事項や、現地での対応について解説しています。旅行者は最新の規制や入国要件を事前に確認することが重要です。"
+      "summary_ja": "新型コロナウイルスのパンデミック中に日本への旅行を計画している方向けの情報をまとめた記事です。日本訪問を希望する場合に必要な知識や、現地で想定される状況について解説しています。旅行前に必要な準備や注意事項を事前に把握しておくことが重要です。"
     },
     {
       "title": "Hundreds stranded after deadly 7.4 magnitude quake hits Taiwan",
       "desc": "Rescue teams are trying to reach more than 700 people stranded in eastern Taiwan following the strongest earthquake to hit the island in decades.",
       "link": "https://www.cnn.com/asia/live-news/taiwan-earthquake-hualien-04-04-23-hnk-intl/index.html",
       "logo": "CNN",
-      "title_ja": "台湾でマグニチュード7.4の強震、数百人が孤立",
-      "summary_ja": "台湾東部で数十年ぶりとなる大規模な地震が発生し、マグニチュード7.4を記録した。700人以上が孤立しており、救助隊が現地への到達を試みている。死者も出ており、被害状況の把握と救助活動が急ピッチで進められている。"
+      "title_ja": "台湾でマグニチュード7.4の大地震、数百人が孤立",
+      "summary_ja": "台湾東部で数十年ぶりとなる大規模な地震が発生し、マグニチュード7.4を記録した。700人以上が孤立した状態となっており、救助隊が現場への到達を試みている。地震による死者も確認されており、被害状況の把握が急がれている。"
     },
     {
       "title": "7.4 magnitude quake hits Taiwan, strongest in 25 years",
       "desc": "A major earthquake has hit the east coast of Taiwan with a magnitude of 7.4, the strongest on the island in 25 years.",
       "link": "https://www.cnn.com/asia/live-news/taiwan-earthquake-hualien-tsunami-warning-hnk-intl/index.html",
       "logo": "CNN",
-      "title_ja": "台湾でマグニチュード7.4の地震、25年ぶりの最大規模",
-      "summary_ja": "台湾東海岸でマグニチュード7.4の大規模な地震が発生しました。この地震は台湾において過去25年間で最も強い規模の地震です。震源は台湾東海岸付近とされています。"
+      "title_ja": "台湾でマグニチュード7.4の地震、25年ぶり最大規模",
+      "summary_ja": "台湾東海岸でマグニチュード7.4の大規模な地震が発生しました。この地震は台湾において過去25年間で最も強い揺れを記録しました。東海岸を震源とするこの大地震は、台湾全土に広範な影響を与えたとみられています。"
     },
     {
       "title": "Japan Airlines jet burst into flames after collision with quake-relief plane",
@@ -64,7 +72,7 @@
       "link": "https://www.cnn.com/asia/live-news/japan-earthquake-plane-fire-news-01-02-24/index.html",
       "logo": "CNN",
       "title_ja": "日本航空機、地震救援機との衝突後に炎上",
-      "summary_ja": "東京・羽田空港で日本航空の旅客機が着陸時に地震救援活動に従事していた航空機と衝突し、炎上した。この事故は、前日に日本の西海岸をマグニチュード7.5の大地震が襲った翌日に発生した。地震への対応が続く中、羽田空港での衝突事故という二重の災難が日本を襲う形となった。"
+      "summary_ja": "東京・羽田空港で日本航空の旅客機が着陸際に地震救援活動に従事していた航空機と衝突し、炎上した。この事故は、日本の西海岸をマグニチュード7.5の大地震が襲った翌日に発生した。救援活動中の航空機が関与していたことで、被災地支援にも影響が及ぶことが懸念される。"
     },
     {
       "title": "January 1, 2024 Japan earthquake",
@@ -72,7 +80,7 @@
       "link": "https://www.cnn.com/asia/live-news/japan-ishikawa-earthquake-01-01-24/index.html",
       "logo": "CNN",
       "title_ja": "2024年1月1日 日本地震",
-      "summary_ja": "2024年1月1日（月）、日本の西部でマグニチュード7.5の強い地震が発生しました。この地震により津波警報が発令され、少なくとも4人の死亡が確認されています。現地では引き続き被害状況の確認や救助活動が行われており、最新情報が随時更新されています。"
+      "summary_ja": "2024年1月1日（月）、日本西部でマグニチュード7.5の強い地震が発生しました。この地震により津波警報が発令され、少なくとも4人の死亡が確認されています。現地では引き続き最新情報の収集と被害状況の確認が行われています。"
     }
   ]
 }
