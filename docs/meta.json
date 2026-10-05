@@ -1,54 +1,62 @@
 {
-  "generated_at": "2026年10月04日 09:19 JST",
-  "article_count": 11,
+  "generated_at": "2026年10月05日 09:24 JST",
+  "article_count": 12,
   "articles": [
+    {
+      "title": "US Marine arrested over murder of woman in Okinawa, Japan",
+      "desc": "Japan's government lodged a formal protest with the US, demanding that military officials take action.",
+      "link": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
+      "logo": "BBC",
+      "title_ja": "沖縄で女性殺害、米海兵隊員を逮捕",
+      "summary_ja": "日本の沖縄県で、米海兵隊員が女性殺害の容疑で逮捕された。日本政府はこの事件を受け、米国に対して正式な抗議を申し入れた。日本側は米軍当局に対し、適切な措置を取るよう強く求めている。"
+    },
     {
       "title": "Japan's first mayor to take maternity leave lands on TIME100 Next list",
       "desc": "Shoko Kawata's maternity leave drew mixed reactions in Japan, a country struggling to lift birth rates.",
       "link": "https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo?at_medium=RSS&at_campaign=rss",
       "logo": "BBC",
-      "title_ja": "産休を取得した日本初の市長、TIME100 Nextリストに選出",
-      "summary_ja": "川田翔子氏は、日本で初めて産休を取得した市長として注目を集めた。少子化問題に苦しむ日本において、彼女の産休取得は賛否両論の反応を呼んだ。そんな彼女の行動が国際的に評価され、TIMEが選ぶ「TIME100 Next」リストに選出された。"
+      "title_ja": "産休を取得した日本初の市長がTIME100 Nextリストに選出",
+      "summary_ja": "川田翔子氏は、日本で初めて産休を取得した市長として注目を集めた。少子化問題に悩む日本では、彼女の産休取得に対してさまざまな反応が寄せられた。そんな彼女の行動が国際的にも評価され、TIMEが選ぶ「TIME100 Next」リストに選出された。"
     },
     {
       "title": "Japan raises permanent residency fee by 20 times",
       "desc": "The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population.",
       "link": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss",
       "logo": "BBC",
-      "title_ja": "日本、永住許可申請手数料を20倍に引き上げ",
-      "summary_ja": "日本政府は永住許可に関する申請手数料を従来の20倍に引き上げることを決定しました。この措置は、増加する在日外国人を管理するために導入された出入国管理政策の変更の一環です。今回の改定は、日本における外国人人口の増加に対応するための取り組みの一つとして位置づけられています。"
+      "title_ja": "日本、永住権申請料を20倍に引き上げ",
+      "summary_ja": "日本政府は永住許可に関する申請料を従来の20倍に大幅に引き上げることを決定しました。この措置は、増加する在日外国人を管理するために導入された出入国管理政策の変更の一環です。外国人人口の増加に対応するため、日本は移民関連の制度見直しを進めています。"
     },
     {
       "title": "They bought an abandoned 'ghost house' in the Japanese countryside",
       "desc": "He'd spent years backpacking around the world, and Japanese traveler Daisuke Kajiyama was finally ready to return home to pursue his long-held dream of opening up a guesthouse.",
       "link": "https://www.cnn.com/travel/article/couple-turned-abandoned-japanese-home-into-guest-house/index.html",
       "logo": "CNN",
-      "title_ja": "日本の田舎に放棄された「幽霊屋敷」を購入",
-      "summary_ja": "日本人旅行者の梶山大輔さんは、長年世界中をバックパック旅行で巡った後、ゲストハウスを開くという長年の夢を実現するために帰国を決意した。彼は日本の田舎にある廃墟となった「幽霊屋敷」を購入し、新たな挑戦をスタートさせた。日本の農村部に点在するいわゆる「空き家」を活用したこの取り組みは、地方再生の一例としても注目されている。"
+      "title_ja": "日本の田舎で廃墟となった「幽霊屋敷」を購入した夫婦",
+      "summary_ja": "日本人旅行者の梶山大輔さんは、長年世界中をバックパッカーとして旅した後、故郷に戻りゲストハウスを開くという夢を追いかけることを決意した。彼は日本の田舎にある廃墟、いわゆる「幽霊屋敷」を購入し、その夢の実現に向けて歩み始めた。過疎化が進む日本の地方では空き家問題が深刻化しており、このような廃墟を再活用する取り組みが注目を集めている。"
     },
     {
       "title": "Japan",
       "desc": "",
       "link": "https://www.cnn.com/specials/asia/japan?utm_source=section",
       "logo": "CNN",
-      "title_ja": "日本",
-      "summary_ja": "ニュースの本文内容が提供されていないため、要約を作成することができません。記事の内容を入力欄に貼り付けてください。内容が提供され次第、日本語に翻訳・要約いたします。"
+      "title_ja": "Japan",
+      "summary_ja": ""
     },
     {
       "title": "This 'edible' plastic bag alternative could save Nara's sacred deer",
       "desc": "A local entrepreneur in the Japanese tourist destination of Nara has developed an alternative to plastic shopping bags, to protect the town's sacred deer.",
       "link": "https://www.cnn.com/travel/article/nara-deer-plastic-bags-scli-intl-scn/index.html",
       "logo": "CNN",
-      "title_ja": "奈良の神鹿を守る「食べられる」レジ袋代替品",
-      "summary_ja": "日本の観光地・奈良で、地元の起業家がプラスチック製レジ袋に代わる新素材を開発した。この取り組みは、奈良を象徴する神聖な鹿を守ることを目的としている。鹿がプラスチック袋を誤飲する問題が深刻であったため、万が一食べても安全な素材が採用された。"
+      "title_ja": "奈良の神聖な鹿を守る「食べられる」レジ袋代替品",
+      "summary_ja": "日本の観光地・奈良で、地元の起業家がプラスチック製レジ袋に代わる新素材を開発した。この取り組みは、奈良のシンボルである神聖な鹿を保護することを目的としている。鹿がプラスチックごみを誤って食べてしまう問題への対策として、万が一食べても安全な「食べられる」素材が採用されている。"
     },
     {
       "title": "Wildlife is flourishing around Fukushima",
       "desc": "Nearly a decade after Japan's Fukushima nuclear disaster, researchers have discovered that wildlife is thriving in the areas evacuated by humans, despite radiological contamination.",
       "link": "https://www.cnn.com/2020/01/07/asia/fukushima-wildlife-intl-scli-scn/index.html",
       "logo": "CNN",
-      "title_ja": "福島周辺で野生動物が繁栄",
-      "summary_ja": "日本の福島原発事故から約10年が経過し、研究者たちが興味深い発見をした。放射性物質による汚染があるにもかかわらず、人間が避難した地域では野生動物が旺盛に繁殖・生息していることが明らかになった。人間の不在が、放射線の影響を上回る形で野生動物にとってプラスの環境をもたらしていると考えられる。"
+      "title_ja": "福島周辺で野生生物が繁栄",
+      "summary_ja": "日本の福島原発事故から約10年が経過した現在、研究者たちは驚くべき発見をした。放射性物質による汚染にもかかわらず、人間が避難した地域では野生生物が旺盛に生息していることが明らかになった。このことは、放射線汚染よりも人間の不在の方が野生生物の繁栄に大きく寄与している可能性を示唆している。"
     },
     {
       "title": "Travel to Japan during Covid-19: What you need to know",
@@ -56,15 +64,15 @@
       "link": "https://www.cnn.com/travel/article/japan-travel-covid-19/index.html",
       "logo": "CNN",
       "title_ja": "新型コロナウイルス感染拡大中の日本旅行：知っておくべきこと",
-      "summary_ja": "新型コロナウイルスのパンデミック中に日本への旅行を計画している方向けの情報をまとめた記事です。渡航前に知っておくべき必要な情報や、現地での注意事項について解説しています。感染拡大が続く状況下での日本訪問に際して、事前に十分な準備と理解が求められます。"
+      "summary_ja": "世界的な新型コロナウイルスのパンデミック中に日本を訪れる予定がある場合に必要な情報をまとめた記事です。渡航前に知っておくべき事項や、現地での注意点について解説しています。日本旅行を計画している方は、最新の入国要件や感染対策ルールを事前に確認することが重要です。"
     },
     {
       "title": "Hundreds stranded after deadly 7.4 magnitude quake hits Taiwan",
       "desc": "Rescue teams are trying to reach more than 700 people stranded in eastern Taiwan following the strongest earthquake to hit the island in decades.",
       "link": "https://www.cnn.com/asia/live-news/taiwan-earthquake-hualien-04-04-23-hnk-intl/index.html",
       "logo": "CNN",
-      "title_ja": "台湾でM7.4の強震、数百人が孤立",
-      "summary_ja": "台湾東部を数十年ぶりとなるマグニチュード7.4の強い地震が襲い、700人以上が孤立状態となっている。救助隊が孤立した人々への救援活動を懸命に続けている。今回の地震は台湾において近年まれに見る規模の大地震となった。"
+      "title_ja": "マグニチュード7.4の強震が台湾を直撃、数百人が孤立",
+      "summary_ja": "数十年ぶりとなる大規模な地震が台湾東部を襲い、マグニチュード7.4を記録した。700人以上が孤立した状態となっており、救助隊が現地への到達を試みている。死者も確認されており、当局は懸命な救助活動を続けている。"
     },
     {
       "title": "7.4 magnitude quake hits Taiwan, strongest in 25 years",
@@ -72,15 +80,15 @@
       "link": "https://www.cnn.com/asia/live-news/taiwan-earthquake-hualien-tsunami-warning-hnk-intl/index.html",
       "logo": "CNN",
       "title_ja": "台湾でマグニチュード7.4の地震、25年ぶりの最大規模",
-      "summary_ja": "台湾東海岸でマグニチュード7.4の大規模な地震が発生しました。この地震は台湾において過去25年間で最も強い地震となりました。震源は台湾東海岸付近とされており、島全体に大きな影響を与えたとみられます。"
+      "summary_ja": "台湾東海岸でマグニチュード7.4の大規模な地震が発生しました。この地震は台湾において過去25年間で最も強い揺れとなりました。東海岸を震源とする今回の地震は、台湾に甚大な影響をもたらす可能性があります。"
     },
     {
       "title": "Japan Airlines jet burst into flames after collision with quake-relief plane",
       "desc": "A Japan Airlines plane burst into flames on landing at Tokyo's Haneda airport after it collided with an aircraft involved in earthquake relief efforts. This comes after a 7.5-magnitude earthquake struck the west coast of Japan a day earlier.",
       "link": "https://www.cnn.com/asia/live-news/japan-earthquake-plane-fire-news-01-02-24/index.html",
       "logo": "CNN",
-      "title_ja": "日本航空機、地震救援機との衝突後に炎上",
-      "summary_ja": "東京の羽田空港で、日本航空の航空機が着陸時に地震救援活動に従事していた航空機と衝突し、炎上した。この事故は、日本の西海岸をマグニチュード7.5の大地震が襲った翌日に発生した。地震救援のために運用されていた航空機が関与していたことで、被災地支援活動にも影響が及ぶことが懸念される。"
+      "title_ja": "日本航空機が地震救援機との衝突後に炎上",
+      "summary_ja": "東京の羽田空港で、日本航空の旅客機が着陸時に地震救援活動に従事していた航空機と衝突し、炎上した。この事故は、日本の西海岸をマグニチュード7.5の大地震が襲った翌日に発生した。地震救援という緊急対応が続く中、空港での重大な衝突事故という二重の災難が日本を襲う形となった。"
     },
     {
       "title": "January 1, 2024 Japan earthquake",
@@ -88,7 +96,7 @@
       "link": "https://www.cnn.com/asia/live-news/japan-ishikawa-earthquake-01-01-24/index.html",
       "logo": "CNN",
       "title_ja": "2024年1月1日 日本地震",
-      "summary_ja": "2024年1月1日（月）、日本の西部でマグニチュード7.5の強い地震が発生しました。この地震により津波警報が発令され、少なくとも4人の死亡が確認されています。現地では引き続き状況の確認と救助活動が行われています。"
+      "summary_ja": "2024年1月1日（月）、日本の西部でマグニチュード7.5の大規模な地震が発生しました。この地震により津波警報が発令され、少なくとも4人の死亡が確認されています。現地では引き続き情報収集と被害状況の確認が行われています。"
     }
   ]
 }
